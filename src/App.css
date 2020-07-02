@@ -1,38 +1,59 @@
-.App {
+.jumbo-img {
+  height: 250px;
+}
+.jumbo-text {
+  font-family: "Monotype Corsiva"; 
+  text-align: center;
+  vertical-align: middle;
+}
+.jumbo-logo {
+  align-items: center;
+  width:100px;
+}
+.navbar-dark {
+    background-color: #200010;
+}
+.jumbotron {
+  margin: 0px auto;
+  padding: 70px 30px;
+  background: #970f0d;
+  color: floralwhite; 
+}
+
+.cat-icon {
+  background-position: center;
+  background-repeat: no-repeat;
+  color: transparent;
+}
+.cat-icon-hover {
+  border-radius: 50%;
+  height: 280px;
+  background: rgba(128,0,2,0.9);
+  color: floralwhite;
+}
+.cat-icon-text {
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.footer {
+  background-color: #FFCFA4;
+  margin:0px auto;
+  padding: 20px 0px 20px 0px;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.carousel .slide {
+  background-color: #FF3333;
+  color: floralwhite;
+  padding: 2%;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.carousel li img {
+  min-height: 300px;
+  max-height: 400px;
 }
-
-.App-link {
-  color: #61dafb;
+.carousel .thumbs-wrapper {
+  display: none;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.promo-bg {
+  background-color: #FF3333;
+}
+.card-text {
+  text-align: center;
 }

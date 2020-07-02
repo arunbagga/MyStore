@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MyStore/static/css/main.e3864a8f.chunk.css",
+    "main.js": "/MyStore/static/js/main.741f405b.chunk.js",
+    "main.js.map": "/MyStore/static/js/main.741f405b.chunk.js.map",
+    "runtime-main.js": "/MyStore/static/js/runtime-main.1897bdec.js",
+    "runtime-main.js.map": "/MyStore/static/js/runtime-main.1897bdec.js.map",
+    "static/css/2.e7aff499.chunk.css": "/MyStore/static/css/2.e7aff499.chunk.css",
+    "static/js/2.3205cc6a.chunk.js": "/MyStore/static/js/2.3205cc6a.chunk.js",
+    "static/js/2.3205cc6a.chunk.js.map": "/MyStore/static/js/2.3205cc6a.chunk.js.map",
+    "index.html": "/MyStore/index.html",
+    "precache-manifest.3fe997f0850ae7b3d64d88e4403b169e.js": "/MyStore/precache-manifest.3fe997f0850ae7b3d64d88e4403b169e.js",
+    "service-worker.js": "/MyStore/service-worker.js",
+    "static/css/2.e7aff499.chunk.css.map": "/MyStore/static/css/2.e7aff499.chunk.css.map",
+    "static/css/main.e3864a8f.chunk.css.map": "/MyStore/static/css/main.e3864a8f.chunk.css.map",
+    "static/js/2.3205cc6a.chunk.js.LICENSE.txt": "/MyStore/static/js/2.3205cc6a.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/MyStore/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1897bdec.js",
+    "static/css/2.e7aff499.chunk.css",
+    "static/js/2.3205cc6a.chunk.js",
+    "static/css/main.e3864a8f.chunk.css",
+    "static/js/main.741f405b.chunk.js"
+  ]
+}

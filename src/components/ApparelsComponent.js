@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import { Card, CardImg, CardImgOverlay, CardTitle, CardText, Breadcrumb, BreadcrumbItem} from 'reactstrap';
+import React from 'react';
+import { Card, CardImg, CardTitle, CardText, Breadcrumb, BreadcrumbItem} from 'reactstrap';
 import { Link } from 'react-router-dom';
 import { FadeTransform } from 'react-animation-components';
 
